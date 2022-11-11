@@ -228,3 +228,4 @@ Polygon-Starter-Kit Project Template Introduction, and how to utilize different 
 - `src/contracts` For containing `smart contract`，and its also the contract location pointer in the truffle configuration
 - `src/abis` for containing abi files after Truffle Compilation
 - `hooks/index.js` initialize `Provider`‘s request hook in `@web3-react`
+# Dapp-Starter-Kit---polygon
